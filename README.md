@@ -28,3 +28,4 @@
 
 **If interested, join https://discord.gg/Ze4m2Uyxjw**
 
+<img width="1845" height="1002" alt="image" src="https://github.com/user-attachments/assets/1d1a8a12-5930-4fc1-89e7-7babfde66aad" />
