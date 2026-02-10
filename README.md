@@ -13,13 +13,18 @@
 
 **Features:**
 - Modern & Simple looking UI
+- Real-time ADMIN Panel
 - Vehicle search filters (Filter by Vehicle name, vehicle price, vehicle category)
 - Vehicle stats (Top speed, acceleration, seats)
+- Daily random vehicles discounts (Daily Deals)
+- Selectable test drive location
 - Payment by Cash & Card
-- Vehicle preview
+- Vehicle preview with mouse controls
 - Vehicle color selection
 - Smooth UI animations & efects
 - Vehicle preview photo
+- Every GTA vehicle has photo uploaded, no need to download photo, just add vehicle to catalog
+- HTML is opensource, you can always change locales!
 
 > - Every GTA vehicle has photo uploaded, no need to download photo, just add vehicle to catalog
 
@@ -28,6 +33,6 @@
 # https://youtu.be/jvrPddhFLRM
 
 
-# If interested, join https://discord.gg/Ze4m2Uyxjw
+# PURCHASE ON https://medaaa.tebex.io/
 
 <img width="1845" height="1002" alt="image" src="https://github.com/user-attachments/assets/1d1a8a12-5930-4fc1-89e7-7babfde66aad" />
