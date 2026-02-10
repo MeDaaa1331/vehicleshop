@@ -35,4 +35,5 @@
 
 # PURCHASE ON https://medaaa.tebex.io/
 
-<img width="1845" height="1002" alt="image" src="https://github.com/user-attachments/assets/1d1a8a12-5930-4fc1-89e7-7babfde66aad" />
+<img width="1008" height="483" alt="vehicleshop" src="https://github.com/user-attachments/assets/d5406c9f-7fcd-4dec-9d13-8734acd3ba2b" />
+
